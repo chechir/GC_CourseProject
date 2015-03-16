@@ -1,11 +1,12 @@
 
 =========================================================================
 Shaped data for the Human Activity Recognition Using Smartphones Dataset
-Version 1.0
 =========================================================================
+###Version 1.0
+
 Course Project for the Coursera MOCC: Cleaning and Getting data Course Project
-Author of the R script: Matias Thayer
 =========================================================================
+###Author of the R script: Matias Thayer
 
 The purpose of this project was to download and transform experimental data into a more readable way. 
 
@@ -21,7 +22,7 @@ Here is a description of the experiments as described in the original dataset:
 The dataset includes the following files:
 =========================================
 
-- 'README.txt'
+### 'README.txt'
 
 - 'run_analysis.R': Script that get and clean data for the Samsung dataset. Particularly, it performs the following tasks:
     - Merges the training and the test sets to create one data set.
@@ -31,9 +32,9 @@ The dataset includes the following files:
     - Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
     - Export the tidy data set produced to the file: 'cleanDataSet.txt'
 
-- 'cleanDataSet.txt': Output file. It was generated running the 'run_analysis.R' script
+### 'cleanDataSet.txt': Output file. It was generated running the 'run_analysis.R' script
 
-- 'SamsungDataSet.zip': Original data set
+### 'SamsungDataSet.zip': Original data set
 
 
 For more information about this work contact: chechir@gmail.com
