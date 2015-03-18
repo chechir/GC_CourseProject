@@ -38,7 +38,7 @@ activity
 subject 
 	Corresponds to the subject number that performed the activity
 
-Next 71 columns are continuos variables:	
+Next 71 columns correspond to continuous variables:	
 mean_tBodyAcc_mean_X              : num  0.222 0.28 0.281 0.26 0.277 ...
 mean_tBodyAcc_mean_Y              : num  -0.0405 -0.0243 -0.0177 -0.0175 -0.0204 ...
 mean_tBodyAcc_mean_Z              : num  -0.113 -0.117 -0.109 -0.108 -0.104 ...
@@ -120,7 +120,7 @@ mean_fBodyBodyGyroJerkMag_std     : num  -0.933 -0.961 -0.984 -0.962 -0.973 ...
 mean_fBodyBodyGyroJerkMag_meanFreq: num  0.1765 0.2026 0.256 0.0227 0.0544 ...
 
 
-## Source of data
+## Source of the data
 This project uses data from the following experiment: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones:
 
 "The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data.
