@@ -30,7 +30,7 @@ The dataset includes the following files:
     - Apply descriptive activity names to name the activities in the data set
     - Apply appropriate labels to the data set with descriptive variable names. 
     - Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-    - Export the tidy data set produced to the file: 'cleanDataSet.txt'
+    - Export the tidy data set produced to the file: 'tidyDataSet.txt'
 
 - 'cleanDataSet.txt': Output file. It was generated running the 'run_analysis.R' script
 
