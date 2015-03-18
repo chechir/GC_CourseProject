@@ -1,5 +1,4 @@
 ##Objective:
-
 This document provides details about the script run_analysis.R and the dataset that it produces, provided in this repository
 
 ##Introduction
