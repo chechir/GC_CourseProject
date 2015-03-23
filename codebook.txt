@@ -15,7 +15,6 @@ The script 'run_analysis.R' will perform the following steps:
 - Correct the names of the features in order to facilitate manipulation of the data afterwards. In this way,
 	-- tBodyAcc-mean()-X becomes tBodyAcc_mean_X
 	-- tGravityAcc-std()-X becomes tGravityAcc_std()_X
-	-- tBodyGyroJerk_mean_X 
 	-- Etc...
 - Using the "grep" function of R, select only the columns with the mean and standard deviation measures. 
 - Apply the same 3 steps to test and train
